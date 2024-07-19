@@ -1,9 +1,5 @@
 # Prime-Soft-Agengy
 
-Certainly! Here’s the updated README file for Prime Soft Agency:
-
----
-
 # Welcome to Prime Soft Agency
 
 ## About Us
